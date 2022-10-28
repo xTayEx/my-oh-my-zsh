@@ -1,6 +1,4 @@
-# custom files
-custom/
-
+.local-history
 # temp files directories
 cache/
 log/
