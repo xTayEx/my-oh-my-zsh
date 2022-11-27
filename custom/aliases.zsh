@@ -12,3 +12,5 @@ alias "vpndisconnect"="/opt/cisco/anyconnect/bin/vpn -s < /home/xtayex/Documents
 alias "restartxmonad"="pkill stalonetray; pkill xmobar; xmonad --recompile; xmonad --restart"
 alias "hexo"="$HOME/Documents/My_Blog/blog/node_modules/hexo/bin/hexo"
 alias "hoogle"="stack hoogle"
+alias "ls"="lsd"
+alias "kssh"="kitty +kitten ssh"
